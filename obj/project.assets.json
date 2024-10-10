@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfai\\OneDrive\\Documents\\HOME-WORK\\HOME WORK\\HOME WORK\\HOME WORK.csproj",
-      "projectName": "HOME WORK",
-      "projectPath": "C:\\Users\\alfai\\OneDrive\\Documents\\HOME-WORK\\HOME WORK\\HOME WORK\\HOME WORK.csproj",
+      "projectUniqueName": "C:\\Users\\alfai\\OneDrive\\Documents\\work\\lab-2-3\\lab-2-home-work\\lab-2-home-work\\lab-2-home-work.csproj",
+      "projectName": "lab-2-home-work",
+      "projectPath": "C:\\Users\\alfai\\OneDrive\\Documents\\work\\lab-2-3\\lab-2-home-work\\lab-2-home-work\\lab-2-home-work.csproj",
       "packagesPath": "C:\\Users\\alfai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfai\\OneDrive\\Documents\\HOME-WORK\\HOME WORK\\HOME WORK\\obj\\",
+      "outputPath": "C:\\Users\\alfai\\OneDrive\\Documents\\work\\lab-2-3\\lab-2-home-work\\lab-2-home-work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alfai\\AppData\\Roaming\\NuGet\\NuGet.Config",

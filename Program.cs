@@ -1,4 +1,4 @@
-namespace HOME_WORK
+namespace lab_2_home_work
 {
     internal static class Program
     {
